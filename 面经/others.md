@@ -5,5 +5,7 @@
 
 [中兴+华为+网易+美团+携程（Java工程师校招面经总结）](https://www.nowcoder.com/discuss/20607)
 
+[新疆学子的腾讯后台开发的面经](https://www.nowcoder.com/discuss/26045)
+
 
 
